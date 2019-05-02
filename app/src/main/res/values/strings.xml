@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MojApka</string>
+    <string name="action_settings">Remove all</string>
+    <string name="enterName">Enter name for task</string>
+    <string name="enterDate">Date</string>
+    <string name="enterCategory">Category</string>
+    <string name="clikAdd">Add</string>
+    <string name="cancelClick">Cancel</string>
+    <string name="itemsTrue">There are items on list</string>
+    <string name="itemsFalse">There are NO items on list</string>
+    <string name="success">Item has been succesfully added</string>
+    <string name="failureAdding">There was a failure filling form</string>
+    <string name="failureDatabase">There was a failure with database</string>
+    <string name="hintDate">Select date</string>
+</resources>
